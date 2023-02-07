@@ -55,7 +55,7 @@
             </li>
             <li class="item">
                 <a href="<?php echo site_url();?>Dashboard/transaksi" class="menu-btn">
-                    <i class="fas fa-cash-register"></i><span>Kasir</span>
+                    <i class="fas fa-cash-register"></i><span>kasir</span>
                 </a>
             </li>
             <li class="item" id="laporan">
